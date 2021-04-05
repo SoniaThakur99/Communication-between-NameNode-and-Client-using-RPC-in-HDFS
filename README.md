@@ -19,7 +19,7 @@ To get a local copy up and running follow these simple steps.
  
 1. Clone the repo
 sh
-git clone https://github.com/jaisoneji/vue-salisation
+git clone https://github.com/SoniaThakur99/Communication-between-NameNode-and-Client-using-RPC-in-HDFS.git
 
 2. Import this folder in Intell IJ IDE
 
@@ -29,7 +29,6 @@ git clone https://github.com/jaisoneji/vue-salisation
 sh
 javac NameNode.java
 java NameNode
-
 javac Client.java
 java Client
 
