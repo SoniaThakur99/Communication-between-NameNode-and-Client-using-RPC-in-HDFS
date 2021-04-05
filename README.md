@@ -2,7 +2,7 @@
 Communication between NameNode and Client using RPC in HDFS
 ## About The Project
 
-This project is a java application that provide communication between the namenode and client using rpc in hdfs
+This project is a java application that provide communication between the namenode and client using RPC in HDFS
 
 ### Built With
 This project is made using IntelliJ IDE
