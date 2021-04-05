@@ -5,7 +5,7 @@ Communication between NameNode and Client using RPC in HDFS
 This project is a java application that provide communication between the namenode and client using rpc in hdfs
 
 ### Built With
- This project is made using Intel lJ
+This project is made using Intel lJ
 
 * Intell IJ(https://www.jetbrains.com/idea/)
 
@@ -26,12 +26,12 @@ git clone https://github.com/SoniaThakur99/Communication-between-NameNode-and-Cl
 3. In Intell IJ IDE click on the run button OR 
 
 4. Run following commands in different terminal:
-sh
+```sh
 javac NameNode.java
 java NameNode
 javac Client.java
 java Client
-
+```
 <!-- CONTRIBUTING -->
 ## Contributors:
 GROUP NO: 5
